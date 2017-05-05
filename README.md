@@ -1,2 +1,3 @@
-# ReactResdux
+# ReactRedux
 React Redux Training
+
